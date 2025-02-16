@@ -1,6 +1,8 @@
 # NameSorter
 NameSorter is a C# console application that reads names from a text file, sorts them by last name and then by first name, and writes the sorted names to an output text file.
 
+[![.NET Core Desktop](https://github.com/anureshmp/NameSorter/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/anureshmp/NameSorter/actions/workflows/dotnet-desktop.yml)
+
 ## Prerequisites
 .NET Core SDK >= 8.0.4
 
