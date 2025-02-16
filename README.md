@@ -4,7 +4,7 @@ NameSorter is a C# console application that reads names from a text file, sorts 
 [![.NET Core Desktop](https://github.com/anureshmp/NameSorter/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/anureshmp/NameSorter/actions/workflows/dotnet-desktop.yml)
 
 ## Build Pipeline
-This project uses GitHub Actions to automatically build and test the application. The build pipeline is defined in the `.github/workflows/dotnet-build.yml` file.
+This project uses GitHub Actions to automatically build and test the application. The build pipeline is defined in the `.github/workflows/dotnet-desktop.yml` file.
 
 ## Prerequisites
 .NET Core SDK >= 8.0.4
