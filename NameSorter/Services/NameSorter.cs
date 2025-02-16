@@ -19,7 +19,7 @@ namespace NameSorter.Services
 		/// <param name="names"></param>
 		public void Sort(List<Name> names)
 		{
-			// Sorting names using bubble sort algorithm
+			// Sorting names in the list using bubble sort algorithm
 			for (int i = 0; i < names.Count - 1; i++)
 			{
 				for (int j = 0; j < names.Count - i - 1; j++)
